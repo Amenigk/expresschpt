@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(202, 218, 233);
+    text-align: center;
+}
+
+.sections{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    font-style: italic;
+    color:rgb(41, 28, 66);   
+    padding: 5px;
+    margin: 50px;
+    
+ } 
+ .navi{
+    display: inline;
+    margin: 25px;
+    padding: 50px;
+  }
